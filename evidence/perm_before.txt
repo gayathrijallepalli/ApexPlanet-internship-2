@@ -1,0 +1,1 @@
+-rw-rw-r-- 1 kali-user kali-user 0 Sep 21 12:27 /home/kali-user/lab-practice/perm-test.txt

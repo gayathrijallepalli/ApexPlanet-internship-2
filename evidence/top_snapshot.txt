@@ -1,0 +1,50 @@
+top - 12:48:25 up  2:11,  1 user,  load average: 0.05, 0.05, 0.16
+Tasks: 156 total,   1 running, 155 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 11.1 us, 11.1 sy,  0.0 ni, 77.8 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+MiB Mem :   1974.0 total,    191.9 free,    716.0 used,   1264.6 buff/cache     
+MiB Swap:   1359.0 total,   1200.5 free,    158.5 used.   1258.0 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+      1 root      20   0   24572  15664  10852 S   0.0   0.8   0:09.15 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.01 kthreadd
+      3 root      20   0       0      0      0 S   0.0   0.0   0:00.00 pool_wo+
+      4 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker+
+      5 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker+
+      6 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker+
+      7 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker+
+      8 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker+
+     13 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker+
+     14 root      20   0       0      0      0 I   0.0   0.0   0:00.00 rcu_tas+
+     15 root      20   0       0      0      0 I   0.0   0.0   0:00.00 rcu_tas+
+     16 root      20   0       0      0      0 I   0.0   0.0   0:00.00 rcu_tas+
+     17 root      20   0       0      0      0 S   0.0   0.0   0:14.92 ksoftir+
+     18 root      20   0       0      0      0 I   0.0   0.0   0:02.97 rcu_pre+
+     19 root      20   0       0      0      0 S   0.0   0.0   0:00.00 rcu_exp+
+     20 root      20   0       0      0      0 S   0.0   0.0   0:00.00 rcu_exp+
+     21 root      rt   0       0      0      0 S   0.0   0.0   0:00.16 migrati+
+     22 root     -51   0       0      0      0 S   0.0   0.0   0:00.00 idle_in+
+     23 root      20   0       0      0      0 S   0.0   0.0   0:00.00 cpuhp/0
+     25 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kdevtmp+
+     26 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker+
+     27 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kauditd
+     28 root      20   0       0      0      0 S   0.0   0.0   0:00.01 khungta+
+     30 root      20   0       0      0      0 S   0.0   0.0   0:00.00 oom_rea+
+     31 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker+
+     33 root      20   0       0      0      0 S   0.0   0.0   0:03.10 kcompac+
+     34 root      25   5       0      0      0 S   0.0   0.0   0:00.00 ksmd
+     35 root      39  19       0      0      0 S   0.0   0.0   0:00.71 khugepa+
+     36 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker+
+     37 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker+
+     38 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker+
+     39 root     -51   0       0      0      0 S   0.0   0.0   0:00.00 irq/9-a+
+     40 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker+
+     41 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker+
+     42 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker+
+     43 root       0 -20       0      0      0 I   0.0   0.0   0:29.19 kworker+
+     44 root      20   0       0      0      0 S   0.0   0.0   0:05.13 kswapd0
+     47 root      20   0       0      0      0 I   0.0   0.0   0:08.53 kworker+
+     52 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker+
+     56 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker+
+     57 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker+
+     58 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker+
+     63 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker+

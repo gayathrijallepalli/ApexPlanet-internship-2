@@ -1,0 +1,50 @@
+[ 5857.919126] 06:44:50.110934 X11 events  RRScreenChangeNotify event received
+[ 5857.925919] 06:44:50.117703 dp-svga-x11  output[0] successfully configured
+[ 5857.957200] 06:44:50.148931 X11 events  Monitor 0 (w,h)=(957,927) (x,y)=(0,0)
+[ 5857.957459] 06:44:50.149242 X11 events  Sending monitor positions (8 of them)  to the host: VINF_SUCCESS
+[ 5857.957577] 06:44:50.149434 X11 events  received X11 event (89)
+[ 5857.957691] 06:44:50.149546 X11 events  RRScreenChangeNotify event received
+[ 5857.967494] 06:44:50.159263 X11 events  Monitor 0 (w,h)=(957,927) (x,y)=(0,0)
+[ 5857.967660] 06:44:50.159505 X11 events  Sending monitor positions (8 of them)  to the host: VINF_SUCCESS
+[ 5857.967744] 06:44:50.159626 X11 events  received X11 event (89)
+[ 5857.967842] 06:44:50.159708 X11 events  RRScreenChangeNotify event received
+[ 5857.994771] 06:44:50.174352 X11 events  Monitor 0 (w,h)=(957,927) (x,y)=(0,0)
+[ 5858.021458] 06:44:50.213229 X11 events  Sending monitor positions (8 of them)  to the host: VINF_SUCCESS
+[ 5858.021553] 06:44:50.213405 X11 events  received X11 event (89)
+[ 5858.021642] 06:44:50.213489 X11 events  RRScreenChangeNotify event received
+[ 5858.037531] 06:44:50.229231 X11 events  Monitor 0 (w,h)=(957,927) (x,y)=(0,0)
+[ 5858.037815] 06:44:50.229627 X11 events  Sending monitor positions (8 of them)  to the host: VINF_SUCCESS
+[ 5858.351693] 06:44:50.543165 dp-svga-x11  output[0] successfully configured
+[ 5858.546673] 06:44:50.737631 X11 events  received X11 event (89)
+[ 5858.546923] 06:44:50.738375 X11 events  RRScreenChangeNotify event received
+[ 5858.557958] 06:44:50.749485 X11 events  Monitor 0 (w,h)=(956,926) (x,y)=(0,0)
+[ 5858.558093] 06:44:50.749658 X11 events  Sending monitor positions (8 of them)  to the host: VINF_SUCCESS
+[ 5858.558165] 06:44:50.749761 X11 events  received X11 event (89)
+[ 5858.558274] 06:44:50.749861 X11 events  RRScreenChangeNotify event received
+[ 5858.561913] 06:44:50.753345 X11 events  Monitor 0 (w,h)=(956,926) (x,y)=(0,0)
+[ 5858.562701] 06:44:50.754241 X11 events  Sending monitor positions (8 of them)  to the host: VINF_SUCCESS
+[ 5858.562803] 06:44:50.754373 X11 events  received X11 event (89)
+[ 5858.562994] 06:44:50.754559 X11 events  RRScreenChangeNotify event received
+[ 5858.601210] 06:44:50.792658 X11 events  Monitor 0 (w,h)=(956,926) (x,y)=(0,0)
+[ 5858.601505] 06:44:50.792918 X11 events  Sending monitor positions (8 of them)  to the host: VINF_SUCCESS
+[ 5858.601598] 06:44:50.793161 X11 events  received X11 event (89)
+[ 5858.601681] 06:44:50.793244 X11 events  RRScreenChangeNotify event received
+[ 5858.675161] 06:44:50.865753 X11 events  Monitor 0 (w,h)=(956,926) (x,y)=(0,0)
+[ 5858.675728] 06:44:50.866940 X11 events  Sending monitor positions (8 of them)  to the host: VINF_SUCCESS
+[ 5858.682331] 06:44:50.873644 X11 events  received X11 event (89)
+[ 5858.682856] 06:44:50.874158 X11 events  RRScreenChangeNotify event received
+[ 5858.758346] 06:44:50.949330 dp-svga-x11  output[0] successfully configured
+[ 5858.810841] 06:44:51.002155 X11 events  Monitor 0 (w,h)=(955,925) (x,y)=(0,0)
+[ 5858.818237] 06:44:51.009441 X11 events  Sending monitor positions (8 of them)  to the host: VINF_SUCCESS
+[ 5858.818570] 06:44:51.009918 X11 events  received X11 event (89)
+[ 5858.818723] 06:44:51.010111 X11 events  RRScreenChangeNotify event received
+[ 5858.832121] 06:44:51.023112 X11 events  Monitor 0 (w,h)=(955,925) (x,y)=(0,0)
+[ 5858.851330] 06:44:51.042556 X11 events  Sending monitor positions (8 of them)  to the host: VINF_SUCCESS
+[ 5858.851522] 06:44:51.042883 X11 events  received X11 event (89)
+[ 5858.854353] 06:44:51.045676 X11 events  RRScreenChangeNotify event received
+[ 5858.863281] 06:44:51.054576 X11 events  Monitor 0 (w,h)=(955,925) (x,y)=(0,0)
+[ 5858.863448] 06:44:51.054848 X11 events  Sending monitor positions (8 of them)  to the host: VINF_SUCCESS
+[ 5858.863548] 06:44:51.054967 X11 events  received X11 event (89)
+[ 5858.876544] 06:44:51.067853 X11 events  RRScreenChangeNotify event received
+[ 5858.886061] 06:44:51.077358 X11 events  Monitor 0 (w,h)=(955,925) (x,y)=(0,0)
+[ 5858.886335] 06:44:51.077735 X11 events  Sending monitor positions (8 of them)  to the host: VINF_SUCCESS
